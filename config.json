@@ -1,0 +1,14 @@
+{
+    "url": "https://www.cvbankas.lt/?location%5B0%5D=606&padalinys%5B0%5D=76",
+    "selectors": {
+        "consent_button": "body > div.fc-consent-root > div.fc-dialog-container > div.fc-dialog.fc-choice-dialog > div.fc-footer-buttons-container > div.fc-footer-buttons > button.fc-button.fc-cta-consent.fc-primary-button",
+        "salary": "a > div.list_a_wrapper > div.list_cell.jobadlist_list_cell_salary > span > span > span > span.salary_text",
+        "job_title": "a > div.list_a_wrapper > div:nth-child(1) > h3",
+        "next_page_button": "a.paging_next"
+    },
+    "port": 4444,
+    "logging_level": "INFO",
+    "wait_time": 4,
+    "last_page_number": 6,
+    "log_file": "main.log"
+}
