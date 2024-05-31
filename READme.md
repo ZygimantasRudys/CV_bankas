@@ -30,7 +30,7 @@ This project is designed to scrape job advertisements from a specified website u
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/job-ad-scraper.git
+    git clone https://github.com/ZygimantasRudys/CV_bankas.git
     cd job-ad-scraper
 
 2. Install required Python packages:
